@@ -1,0 +1,7 @@
+live_config_reload = true
+
+[font]
+size = 18
+  [font.normal]
+    family = "JetBrainsMono Nerd Font"
+    style = "Regular"
